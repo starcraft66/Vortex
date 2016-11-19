@@ -16,4 +16,4 @@ Then drop vortex.php in your webroot and fire away POST requests as defined insi
 ##flat2sql
 When originally writing and debugging this program I'd log the data to a text file. vortex2sql is a simple program that can import the data from that file into the sql database. Simply edit a few variables at the top of the file and run it.
 
->$ php fla2sql.php
+>$ php flat2sql.php
